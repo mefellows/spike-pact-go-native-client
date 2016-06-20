@@ -2,6 +2,7 @@
 Client app using Pact Go native spike
 
 ```
+go get ./...
 go run main.go
 ```
 
